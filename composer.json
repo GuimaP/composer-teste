@@ -1,0 +1,13 @@
+{
+    "name": "guimap/composer-teste",
+    "description": "Description",
+    "version" : "v1.0.0",
+    "authors": [
+        {
+            "name": "Guilherme",
+            "email": "guiihpr@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
